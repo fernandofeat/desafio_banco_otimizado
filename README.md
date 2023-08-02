@@ -1,2 +1,2 @@
-# desafio_banco_otimizado
-desafio banco de dados otimizado com funções
+# desafio_banco
+Exercicio de Python - criando um sistema de banco
